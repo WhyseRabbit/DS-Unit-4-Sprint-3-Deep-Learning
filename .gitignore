@@ -103,3 +103,5 @@ venv.bak/
 # mypy
 .mypy_cache/
 module1-rnn-and-lstm/Copy_of_Copy_of_DSPT9_441_RNN_and_LSTM_Class.ipynb
+module2-convolutional-neural-networks/DSPT_432_CNN_Class - Copy.ipynb
+module3-autoencoders/Copy_of_DSPT_433_Autoencoders_Class.ipynb
